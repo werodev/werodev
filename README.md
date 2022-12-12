@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently on 2nd year of Frontend-utvikling (Noroff), working on my portfolio and thinking about personal project during summer break
-- 🌱 I’m currently learning animations in CSS and trying to organize things I've learned so far
-- 👯 I’m looking to collaborate on some small projects where I can learn more about STRAPI
+- 🔭 I’m almost done with 2nd year of Frontend-utvikling (Noroff)
+- 🌱 I’m currently working on solution for my previous employee, that will allow Canteen customers order food for meetings.
+- :computer: I’m looking for consultant job oppportunities in Bergen
 - 🤔 I’m looking for challenge.
 - 😄 Pronouns: Mom, Student
 - ⚡ Proud of: Took part in 2 Bergen Game Jam's (and had fun)
-- :books: Considering studying UX-Design in addition (January '23)
+- :books: Considering studying Backend Development (January '23)
 
